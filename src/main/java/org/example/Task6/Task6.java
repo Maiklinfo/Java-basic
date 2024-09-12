@@ -73,7 +73,7 @@ public class Task6 {
                 System.out.println("Ошибка: Неверный выбор типа величины.");
         }
 
-        // Закрываем Scanner
+
         scanner.close();
 
     }
