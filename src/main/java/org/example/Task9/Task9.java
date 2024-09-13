@@ -1,4 +1,4 @@
-package Task9;
+package org.example.Task9;
 
 import java.util.Scanner;
 
